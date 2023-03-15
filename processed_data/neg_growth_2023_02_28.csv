@@ -1,0 +1,252 @@
+RegionID,RegionName,RegionType
+102001,United States,country
+753899,"Los Angeles, CA",msa
+394514,"Dallas, TX",msa
+394692,"Houston, TX",msa
+395209,"Washington, DC",msa
+394856,"Miami, FL",msa
+394347,"Atlanta, GA",msa
+394976,"Phoenix, AZ",msa
+394404,"Boston, MA",msa
+395057,"San Francisco, CA",msa
+395025,"Riverside, CA",msa
+395078,"Seattle, WA",msa
+394865,"Minneapolis, MN",msa
+395056,"San Diego, CA",msa
+395148,"Tampa, FL",msa
+394530,"Denver, CO",msa
+394458,"Charlotte, NC",msa
+394943,"Orlando, FL",msa
+395055,"San Antonio, TX",msa
+394998,"Portland, OR",msa
+395045,"Sacramento, CA",msa
+394775,"Las Vegas, NV",msa
+394355,"Austin, TX",msa
+395059,"San Jose, CA",msa
+394902,"Nashville, TN",msa
+394714,"Jacksonville, FL",msa
+394935,"Oklahoma City, OK",msa
+395012,"Raleigh, NC",msa
+395053,"Salt Lake City, UT",msa
+395167,"Tucson, AZ",msa
+394619,"Fresno, CA",msa
+753924,"Urban Honolulu, HI",msa
+394357,"Bakersfield, CA",msa
+753906,"North Port, FL",msa
+394952,"Oxnard, CA",msa
+394440,"Cape Coral, FL",msa
+394399,"Boise City, ID",msa
+395134,"Stockton, CA",msa
+394484,"Colorado Springs, CO",msa
+394766,"Lakeland, FL",msa
+394931,"Ogden, UT",msa
+394528,"Deltona, FL",msa
+395006,"Provo, UT",msa
+394549,"Durham, NC",msa
+394957,"Palm Bay, FL",msa
+395113,"Spokane, WA",msa
+394871,"Modesto, CA",msa
+394898,"Myrtle Beach, SC",msa
+394995,"Port St. Lucie, FL",msa
+395068,"Santa Rosa, CA",msa
+395019,"Reno, NV",msa
+395195,"Visalia, CA",msa
+395183,"Vallejo, CA",msa
+753917,"Santa Maria, CA",msa
+395048,"Salem, OR",msa
+395050,"Salinas, CA",msa
+394327,"Anchorage, AK",msa
+394901,"Naples, FL",msa
+394576,"Eugene, OR",msa
+394927,"Ocala, FL",msa
+394602,"Fort Collins, CO",msa
+394645,"Greeley, CO",msa
+394622,"Gainesville, FL",msa
+394405,"Boulder, CO",msa
+394808,"Lubbock, TX",msa
+394741,"Kennewick, WA",msa
+394937,"Olympia, WA",msa
+753875,"Crestview, FL",msa
+395061,"San Luis Obispo, CA",msa
+394851,"Merced, CA",msa
+395197,"Waco, TX",msa
+394447,"Cedar Rapids, IA",msa
+394412,"Bremerton, WA",msa
+395065,"Santa Cruz, CA",msa
+394323,"Amarillo, TX",msa
+395240,"Yakima, WA",msa
+394378,"Bellingham, WA",msa
+394519,"Daphne, AL",msa
+395030,"Rochester, MN",msa
+394848,"Medford, OR",msa
+394459,"Charlottesville, VA",msa
+395247,"Yuma, AZ",msa
+394765,"Lake Havasu City, AZ",msa
+394361,"Barnstable Town, MA",msa
+394464,"Chico, CA",msa
+394763,"Lake Charles, LA",msa
+394485,"Columbia, MO",msa
+394623,"Gainesville, GA",msa
+394680,"Hilo, HI",msa
+394380,"Bend, OR",msa
+394872,"Monroe, LA",msa
+395009,"Punta Gorda, FL",msa
+395119,"St. George, UT",msa
+394406,"Bowling Green, KY",msa
+395018,"Redding, CA",msa
+394748,"Kingston, NY",msa
+395246,"Yuba City, CA",msa
+394480,"Coeur d'Alene, ID",msa
+395007,"Pueblo, CO",msa
+394393,"Bloomington, IN",msa
+394731,"Kahului, HI",msa
+395079,"Sebastian, FL",msa
+394814,"Madera, CA",msa
+394703,"Idaho Falls, ID",msa
+394685,"Homosassa Springs, FL",msa
+394662,"Hanford, CA",msa
+395066,"Santa Fe, NM",msa
+394800,"Logan, UT",msa
+394595,"Flagstaff, AZ",msa
+395232,"Winchester, VA",msa
+394879,"Morgantown, WV",msa
+395153,"The Villages, FL",msa
+394900,"Napa, CA",msa
+394307,"Albany, OR",msa
+394890,"Mount Vernon, WA",msa
+394390,"Bismarck, ND",msa
+394325,"Ames, IA",msa
+394633,"Glens Falls, NY",msa
+394778,"Lawrence, KS",msa
+394867,"Missoula, MT",msa
+395218,"Wenatchee, WA",msa
+394407,"Bozeman, MT",msa
+395173,"Twin Falls, ID",msa
+395095,"Show Low, AZ",msa
+395039,"Roseburg, OR",msa
+395213,"Watertown, NY",msa
+395080,"Sebring, FL",msa
+394733,"Kalispell, MT",msa
+394823,"Mankato, MN",msa
+394709,"Ithaca, NY",msa
+394462,"Cheyenne, WY",msa
+395166,"Truckee, CA",msa
+394882,"Moses Lake, WA",msa
+394988,"Pocatello, ID",msa
+394410,"Brainerd, MN",msa
+394501,"Corning, NY",msa
+394505,"Corvallis, OR",msa
+394928,"Ocean City, NJ",msa
+753887,"Hermiston, OR",msa
+394641,"Grants Pass, OR",msa
+395175,"Ukiah, CA",msa
+394925,"Oak Harbor, WA",msa
+394452,"Centralia, WA",msa
+395133,"Stillwater, OK",msa
+395085,"Seneca, SC",msa
+394986,"Plattsburgh, NY",msa
+753881,"Glenwood Springs, CO",msa
+394994,"Port Angeles, WA",msa
+394674,"Heber, UT",msa
+394744,"Key West, FL",msa
+394764,"Lake City, FL",msa
+394736,"Kapaa, HI",msa
+394884,"Mount Airy, NC",msa
+395092,"Shelton, WA",msa
+394600,"Forest City, NC",msa
+394496,"Coos Bay, OR",msa
+395016,"Red Bluff, CA",msa
+394472,"Clearlake, CA",msa
+394787,"Lewiston, ID",msa
+394629,"Georgetown, SC",msa
+394759,"Laconia, NH",msa
+395199,"Walla Walla, WA",msa
+394631,"Gillette, WY",msa
+395071,"Sayre, PA",msa
+395049,"Salina, KS",msa
+394693,"Hudson, NY",msa
+394336,"Ardmore, OK",msa
+394443,"Carlsbad, NM",msa
+394592,"Fernley, NV",msa
+394365,"Batavia, NY",msa
+394446,"Cedar City, UT",msa
+394547,"Durango, CO",msa
+394402,"Boone, NC",msa
+394444,"Carson City, NV",msa
+394940,"Ontario, OR",msa
+394566,"Elko, NV",msa
+394556,"Edwards, CO",msa
+753920,"Sonora, CA",msa
+395020,"Rexburg, ID",msa
+394742,"Kerrville, TX",msa
+394634,"Gloversville, NY",msa
+753905,"Newport, OR",msa
+395234,"Winona, MN",msa
+394838,"Mason City, IA",msa
+394567,"Ellensburg, WA",msa
+394326,"Amsterdam, NY",msa
+394628,"Gardnerville Ranchos, NV",msa
+394876,"Montrose, CO",msa
+394954,"Pahrump, NV",msa
+394391,"Blackfoot, ID",msa
+394504,"Cortland, NY",msa
+753916,"Sandpoint, ID",msa
+394918,"Nogales, AZ",msa
+394500,"Cornelia, GA",msa
+394426,"Burley, ID",msa
+394842,"McAlester, OK",msa
+394476,"Clewiston, FL",msa
+394934,"Okeechobee, FL",msa
+753866,"Big Stone Gap, VA",msa
+394881,"Moscow, ID",msa
+394341,"Astoria, OR",msa
+394397,"Blytheville, AR",msa
+395203,"Warren, PA",msa
+395227,"Williston, ND",msa
+394335,"Arcadia, FL",msa
+394799,"Lock Haven, PA",msa
+394745,"Kill Devil Hills, NC",msa
+394554,"Easton, MD",msa
+394413,"Brenham, TX",msa
+394920,"North Platte, NE",msa
+394331,"Angola, IN",msa
+394324,"Americus, GA",msa
+395211,"Watertown, SD",msa
+395084,"Seneca Falls, NY",msa
+394536,"Dodge City, KS",msa
+394533,"Dickinson, ND",msa
+394730,"Juneau, AK",msa
+394670,"Hastings, NE",msa
+395093,"Sheridan, WY",msa
+753871,"Breckenridge, CO",msa
+395141,"Susanville, CA",msa
+394606,"Fort Morgan, CO",msa
+753926,"Weatherford, OK",msa
+395214,"Wauchula, FL",msa
+394758,"La Grande, OR",msa
+753923,"The Dalles, OR",msa
+753909,"Ottawa, KS",msa
+394643,"Great Bend, KS",msa
+753921,"Steamboat Springs, CO",msa
+394584,"Fallon, NV",msa
+395004,"Prineville, OR",msa
+753884,"Hailey, ID",msa
+395236,"Woodward, OK",msa
+394418,"Brookings, OR",msa
+394687,"Hood River, OR",msa
+394945,"Oskaloosa, IA",msa
+394498,"Cordele, GA",msa
+395130,"Sterling, CO",msa
+394371,"Beatrice, NE",msa
+394793,"Liberal, KS",msa
+394578,"Evanston, WY",msa
+753908,"Othello, WA",msa
+395135,"Storm Lake, IA",msa
+394965,"Parsons, KS",msa
+394805,"Los Alamos, NM",msa
+753880,"Fairfield, IA",msa
+395112,"Spirit Lake, IA",msa
+753927,"Winnemucca, NV",msa
+394594,"Fitzgerald, GA",msa
+395111,"Spencer, IA",msa
+394743,"Ketchikan, AK",msa

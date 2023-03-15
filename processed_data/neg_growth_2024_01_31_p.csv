@@ -1,0 +1,562 @@
+RegionID,RegionName,RegionType
+102001,United States,country
+394856,"Miami, FL",msa
+394347,"Atlanta, GA",msa
+394532,"Detroit, MI",msa
+395148,"Tampa, FL",msa
+394458,"Charlotte, NC",msa
+394943,"Orlando, FL",msa
+394466,"Cincinnati, OH",msa
+394735,"Kansas City, MO",msa
+394492,"Columbus, OH",msa
+394705,"Indianapolis, IN",msa
+394902,"Nashville, TN",msa
+394714,"Jacksonville, FL",msa
+395012,"Raleigh, NC",msa
+394849,"Memphis, TN",msa
+395022,"Richmond, VA",msa
+395053,"Salt Lake City, UT",msa
+394425,"Buffalo, NY",msa
+394388,"Birmingham, AL",msa
+394640,"Grand Rapids, MI",msa
+395167,"Tucson, AZ",msa
+395169,"Tulsa, OK",msa
+394938,"Omaha, NE",msa
+394653,"Greenville, SC",msa
+394312,"Albuquerque, NM",msa
+394753,"Knoxville, TN",msa
+394843,"McAllen, TX",msa
+753906,"North Port, FL",msa
+394486,"Columbia, SC",msa
+394318,"Allentown, PA",msa
+394561,"El Paso, TX",msa
+394457,"Charleston, SC",msa
+394648,"Greensboro, NC",msa
+394399,"Boise City, ID",msa
+394766,"Lakeland, FL",msa
+394931,"Ogden, UT",msa
+394528,"Deltona, FL",msa
+395235,"Winston, NC",msa
+395006,"Provo, UT",msa
+394549,"Durham, NC",msa
+395143,"Syracuse, NY",msa
+395224,"Wichita, KS",msa
+394352,"Augusta, GA",msa
+395113,"Spokane, WA",msa
+394460,"Chattanooga, TN",msa
+395075,"Scranton, PA",msa
+394590,"Fayetteville, AR",msa
+394770,"Lansing, MI",msa
+394997,"Portland, ME",msa
+395245,"Youngstown, OH",msa
+394589,"Fayetteville, NC",msa
+394792,"Lexington, KY",msa
+394898,"Myrtle Beach, SC",msa
+394971,"Pensacola, FL",msa
+394995,"Port St. Lucie, FL",msa
+394698,"Huntsville, AL",msa
+395116,"Springfield, MO",msa
+394746,"Killeen, TX",msa
+394338,"Asheville, NC",msa
+753917,"Santa Maria, CA",msa
+394870,"Mobile, AL",msa
+394421,"Brownsville, TX",msa
+395051,"Salisbury, MD",msa
+395015,"Reading, PA",msa
+394658,"Gulfport, MS",msa
+394820,"Manchester, NH",msa
+394612,"Fort Wayne, IN",msa
+394596,"Flint, MI",msa
+395070,"Savannah, GA",msa
+394901,"Naples, FL",msa
+395146,"Tallahassee, FL",msa
+394927,"Ocala, FL",msa
+394679,"Hickory, NC",msa
+395164,"Trenton, NJ",msa
+395033,"Rockford, IL",msa
+394622,"Gainesville, FL",msa
+395109,"Spartanburg, SC",msa
+394646,"Green Bay, WI",msa
+395107,"South Bend, IN",msa
+394488,"Columbus, GA",msa
+394471,"Clarksville, TN",msa
+395028,"Roanoke, VA",msa
+394747,"Kingsport, TN",msa
+394741,"Kennewick, WA",msa
+395229,"Wilmington, NC",msa
+394937,"Olympia, WA",msa
+394660,"Hagerstown, MD",msa
+753875,"Crestview, FL",msa
+394543,"Duluth, MN",msa
+395179,"Utica, NY",msa
+394803,"Longview, TX",msa
+395197,"Waco, TX",msa
+394732,"Kalamazoo, MI",msa
+394811,"Lynchburg, VA",msa
+394348,"Atlantic City, NJ",msa
+395171,"Tuscaloosa, AL",msa
+395240,"Yakima, WA",msa
+394609,"Fort Smith, AR",msa
+394334,"Appleton, WI",msa
+394387,"Binghamton, NY",msa
+395174,"Tyler, TX",msa
+753895,"Lafayette, IN",msa
+395161,"Topeka, KS",msa
+394813,"Macon, GA",msa
+394519,"Daphne, AL",msa
+394681,"Hilton Head Island, SC",msa
+394773,"Las Cruces, NM",msa
+394429,"Burlington, VT",msa
+395247,"Yuma, AZ",msa
+394765,"Lake Havasu City, AZ",msa
+394346,"Athens, GA",msa
+394485,"Columbia, MO",msa
+394623,"Gainesville, GA",msa
+394726,"Johnson City, TN",msa
+394597,"Florence, SC",msa
+394716,"Jacksonville, NC",msa
+394380,"Bend, OR",msa
+395011,"Racine, WI",msa
+395009,"Punta Gorda, FL",msa
+395047,"Saginaw, MI",msa
+395202,"Warner Robins, GA",msa
+395151,"Terre Haute, IN",msa
+395119,"St. George, UT",msa
+394386,"Billings, MT",msa
+394539,"Dover, DE",msa
+394651,"Greenville, NC",msa
+394406,"Bowling Green, KY",msa
+394729,"Joplin, MO",msa
+395162,"Torrington, CT",msa
+394712,"Jackson, TN",msa
+394748,"Kingston, NY",msa
+394896,"Muskegon, MI",msa
+394944,"Oshkosh, WI",msa
+394428,"Burlington, NC",msa
+394960,"Panama City, FL",msa
+394480,"Coeur d'Alene, ID",msa
+394553,"East Stroudsburg, PA",msa
+394555,"Eau Claire, WI",msa
+395007,"Pueblo, CO",msa
+394393,"Bloomington, IN",msa
+394731,"Kahului, HI",msa
+394392,"Blacksburg, VA",msa
+394351,"Auburn, AL",msa
+394720,"Janesville, WI",msa
+395079,"Sebastian, FL",msa
+394710,"Jackson, MI",msa
+394639,"Grand Junction, CO",msa
+394703,"Idaho Falls, ID",msa
+394917,"Niles, MI",msa
+394685,"Homosassa Springs, FL",msa
+394523,"Decatur, AL",msa
+394493,"Concord, NH",msa
+395223,"Wichita Falls, TX",msa
+395066,"Santa Fe, NM",msa
+394359,"Bangor, ME",msa
+395163,"Traverse City, MI",msa
+394537,"Dothan, AL",msa
+394723,"Jefferson City, MO",msa
+395152,"Texarkana, TX",msa
+394598,"Florence, AL",msa
+395182,"Valdosta, GA",msa
+394802,"London, KY",msa
+395193,"Vineland, NJ",msa
+395036,"Rocky Mount, NC",msa
+394306,"Albany, GA",msa
+395102,"Sioux City, IA",msa
+395013,"Rapid City, SD",msa
+394800,"Logan, UT",msa
+394880,"Morristown, TN",msa
+394515,"Dalton, GA",msa
+394595,"Flagstaff, AZ",msa
+395000,"Pottsville, PA",msa
+395139,"Sumter, SC",msa
+395094,"Sherman, TX",msa
+394668,"Harrisonburg, VA",msa
+394728,"Jonesboro, AR",msa
+395117,"Springfield, OH",msa
+394368,"Battle Creek, MI",msa
+394307,"Albany, OR",msa
+394890,"Mount Vernon, WA",msa
+394810,"Lumberton, NC",msa
+394727,"Johnstown, PA",msa
+395098,"Sierra Vista, AZ",msa
+394719,"Jamestown, NY",msa
+394474,"Cleveland, TN",msa
+394983,"Pittsfield, MA",msa
+395128,"Staunton, VA",msa
+394635,"Goldsboro, NC",msa
+394905,"New Bern, NC",msa
+394353,"Augusta, ME",msa
+395054,"San Angelo, TX",msa
+395120,"St. Joseph, MO",msa
+394867,"Missoula, MT",msa
+395218,"Wenatchee, WA",msa
+394824,"Mansfield, OH",msa
+394949,"Owensboro, KY",msa
+394423,"Brunswick, GA",msa
+753890,"Holland, MI",msa
+394407,"Bozeman, MT",msa
+395237,"Wooster, OH",msa
+394495,"Cookeville, TN",msa
+395089,"Sheboygan, WI",msa
+395217,"Weirton, WV",msa
+394893,"Muncie, IN",msa
+395173,"Twin Falls, ID",msa
+395095,"Show Low, AZ",msa
+394804,"Longview, WA",msa
+395039,"Roseburg, OR",msa
+394857,"Michigan City, IN",msa
+394788,"Lewiston, ME",msa
+395023,"Richmond, KY",msa
+394932,"Ogdensburg, NY",msa
+395080,"Sebring, FL",msa
+395168,"Tullahoma, TN",msa
+394733,"Kalispell, MT",msa
+394396,"Bluefield, WV",msa
+395222,"Whitewater, WI",msa
+753912,"Pinehurst, NC",msa
+394762,"LaGrange, GA",msa
+394524,"Decatur, IL",msa
+394599,"Fond du Lac, WI",msa
+394369,"Bay City, MI",msa
+394794,"Lima, OH",msa
+753915,"Salem, OH",msa
+394689,"Hot Springs, AR",msa
+394518,"Danville, VA",msa
+394882,"Moses Lake, WA",msa
+395086,"Sevierville, TN",msa
+395090,"Shelby, NC",msa
+395038,"Rome, GA",msa
+394852,"Meridian, MS",msa
+394302,"Adrian, MI",msa
+394441,"Cape Girardeau, MO",msa
+394311,"Albertville, AL",msa
+394513,"Cumberland, MD",msa
+394340,"Ashtabula, OH",msa
+394988,"Pocatello, ID",msa
+394953,"Paducah, KY",msa
+394410,"Brainerd, MN",msa
+394928,"Ocean City, NJ",msa
+395140,"Sunbury, PA",msa
+753887,"Hermiston, OR",msa
+394373,"Beaver Dam, WI",msa
+394809,"Lufkin, TX",msa
+394980,"Pine Bluff, AR",msa
+395248,"Zanesville, OH",msa
+394942,"Orangeburg, SC",msa
+394907,"New Castle, PA",msa
+394511,"Cullman, AL",msa
+394776,"Laurel, MS",msa
+394345,"Athens, TX",msa
+394847,"Meadville, PA",msa
+394859,"Midland, MI",msa
+394682,"Hinesville, GA",msa
+394675,"Helena, MT",msa
+394452,"Centralia, WA",msa
+395231,"Wilson, NC",msa
+394644,"Great Falls, MT",msa
+395126,"Statesboro, GA",msa
+395085,"Seneca, SC",msa
+395145,"Talladega, AL",msa
+395205,"Warsaw, IN",msa
+394822,"Manitowoc, WI",msa
+395077,"Searcy, AR",msa
+394541,"DuBois, PA",msa
+753881,"Glenwood Springs, CO",msa
+394994,"Port Angeles, WA",msa
+394674,"Heber, UT",msa
+394465,"Chillicothe, OH",msa
+394738,"Keene, NH",msa
+753893,"Jefferson, GA",msa
+394350,"Auburn, NY",msa
+394298,"Aberdeen, WA",msa
+394936,"Olean, NY",msa
+394516,"Danville, IL",msa
+394955,"Palatka, FL",msa
+394614,"Frankfort, KY",msa
+394744,"Key West, FL",msa
+395062,"Sandusky, OH",msa
+395088,"Shawnee, OK",msa
+395106,"Somerset, PA",msa
+394764,"Lake City, FL",msa
+753928,"Wisconsin Rapids, WI",msa
+394699,"Huntsville, TX",msa
+394736,"Kapaa, HI",msa
+394655,"Greenwood, SC",msa
+394647,"Greeneville, TN",msa
+394877,"Morehead City, NC",msa
+394885,"Mount Pleasant, MI",msa
+394752,"Klamath Falls, OR",msa
+395027,"Roanoke Rapids, NC",msa
+395092,"Shelton, WA",msa
+394922,"North Wilkesboro, NC",msa
+394305,"Alamogordo, NM",msa
+394897,"Muskogee, OK",msa
+394600,"Forest City, NC",msa
+394587,"Farmington, MO",msa
+394829,"Marquette, MI",msa
+395021,"Richmond, IN",msa
+395105,"Somerset, KY",msa
+394826,"Marion, IN",msa
+394827,"Marion, OH",msa
+394899,"Nacogdoches, TX",msa
+394496,"Coos Bay, OR",msa
+395040,"Roswell, NM",msa
+394360,"Baraboo, WI",msa
+394540,"Dublin, GA",msa
+394787,"Lewiston, ID",msa
+394629,"Georgetown, SC",msa
+394309,"Albemarle, NC",msa
+394825,"Marinette, WI",msa
+394836,"Martinsville, VA",msa
+394889,"Mount Vernon, OH",msa
+395063,"Sanford, NC",msa
+394701,"Hutchinson, KS",msa
+394509,"Crossville, TN",msa
+394759,"Laconia, NH",msa
+395199,"Walla Walla, WA",msa
+394456,"Charleston, IL",msa
+395136,"Sturgis, MI",msa
+394693,"Hudson, NY",msa
+394432,"Calhoun, GA",msa
+394591,"Fergus Falls, MN",msa
+394362,"Barre, VT",msa
+394490,"Columbus, MS",msa
+753877,"Cullowhee, NC",msa
+394956,"Palestine, TX",msa
+395044,"Rutland, VT",msa
+394621,"Gaffney, SC",msa
+394446,"Cedar City, UT",msa
+394402,"Boone, NC",msa
+394989,"Point Pleasant, WV",msa
+394411,"Branson, MO",msa
+394582,"Fairmont, WV",msa
+394940,"Ontario, OR",msa
+394750,"Kinston, NC",msa
+395122,"St. Marys, GA",msa
+395216,"Waycross, GA",msa
+394366,"Batesville, AR",msa
+394556,"Edwards, CO",msa
+394517,"Danville, KY",msa
+394632,"Glasgow, KY",msa
+394967,"Payson, AZ",msa
+395204,"Warrensburg, MO",msa
+394344,"Athens, TN",msa
+394562,"Elizabeth City, NC",msa
+394861,"Milledgeville, GA",msa
+395020,"Rexburg, ID",msa
+394339,"Ashland, OH",msa
+394717,"Jacksonville, TX",msa
+394742,"Kerrville, TX",msa
+394634,"Gloversville, NY",msa
+394604,"Fort Leonard Wood, MO",msa
+394363,"Bartlesville, OK",msa
+394538,"Douglas, GA",msa
+395073,"Scottsboro, AL",msa
+394652,"Greenville, OH",msa
+394985,"Platteville, WI",msa
+394503,"Corsicana, TX",msa
+753905,"Newport, OR",msa
+394933,"Oil City, PA",msa
+395091,"Shelbyville, TN",msa
+394819,"Malone, NY",msa
+394963,"Paris, TX",msa
+395008,"Pullman, WA",msa
+394838,"Mason City, IA",msa
+394567,"Ellensburg, WA",msa
+394903,"Natchez, MS",msa
+394326,"Amsterdam, NY",msa
+394628,"Gardnerville Ranchos, NV",msa
+394527,"Del Rio, TX",msa
+395144,"Tahlequah, OK",msa
+394548,"Durant, OK",msa
+753911,"Ozark, AL",msa
+394431,"Cadillac, MI",msa
+394876,"Montrose, CO",msa
+394954,"Pahrump, NV",msa
+394906,"New Castle, IN",msa
+394437,"Ca-¦on City, CO",msa
+394739,"Kendallville, IN",msa
+394391,"Blackfoot, ID",msa
+394887,"Mount Sterling, KY",msa
+395208,"Washington, NC",msa
+753916,"Sandpoint, ID",msa
+394918,"Nogales, AZ",msa
+753865,"Bardstown, KY",msa
+394987,"Plymouth, IN",msa
+394789,"Lewistown, PA",msa
+394500,"Cornelia, GA",msa
+394886,"Mount Pleasant, TX",msa
+753904,"Marion, NC",msa
+394398,"Bogalusa, LA",msa
+753889,"Hillsdale, MI",msa
+394961,"Paragould, AR",msa
+394883,"Moultrie, GA",msa
+394375,"Bedford, IN",msa
+394426,"Burley, ID",msa
+394850,"Menomonie, WI",msa
+753918,"Shawano, WI",msa
+394377,"Bellefontaine, OH",msa
+394667,"Harrison, AR",msa
+394677,"Henderson, NC",msa
+394817,"Madisonville, KY",msa
+394779,"Lawrenceburg, TN",msa
+395037,"Rolla, MO",msa
+395155,"Thomasville, GA",msa
+395034,"Rockingham, NC",msa
+394384,"Big Rapids, MI",msa
+394616,"Freeport, IL",msa
+394842,"McAlester, OK",msa
+394482,"Coldwater, MI",msa
+394990,"Ponca City, OK",msa
+395129,"Stephenville, TX",msa
+395228,"Willmar, MN",msa
+394545,"Duncan, OK",msa
+394448,"Cedartown, GA",msa
+394650,"Greenville, MS",msa
+394476,"Clewiston, FL",msa
+395081,"Sedalia, MO",msa
+394934,"Okeechobee, FL",msa
+394891,"Mountain Home, AR",msa
+395230,"Wilmington, OH",msa
+394845,"McMinnville, TN",msa
+394624,"Gainesville, TX",msa
+394424,"Bucyrus, OH",msa
+394449,"Celina, OH",msa
+394881,"Moscow, ID",msa
+395158,"Tifton, GA",msa
+394341,"Astoria, OR",msa
+394409,"Bradford, PA",msa
+395082,"Selinsgrove, PA",msa
+394319,"Alma, MI",msa
+395219,"West Plains, MO",msa
+394354,"Austin, MN",msa
+394833,"Marshalltown, IA",msa
+395026,"Riverton, WY",msa
+394894,"Murray, KY",msa
+395046,"Safford, AZ",msa
+395178,"Urbana, OH",msa
+394434,"Cambridge, OH",msa
+394981,"Pittsburg, KS",msa
+394663,"Hannibal, MO",msa
+394574,"Espa-¦ola, NM",msa
+394335,"Arcadia, FL",msa
+394914,"Newberry, SC",msa
+394300,"Ada, OK",msa
+394507,"Crawfordsville, IN",msa
+394422,"Brownwood, TX",msa
+394654,"Greenwood, MS",msa
+394745,"Kill Devil Hills, NC",msa
+394801,"Logansport, IN",msa
+394690,"Houghton, MI",msa
+394888,"Mount Vernon, IL",msa
+395137,"Sulphur Springs, TX",msa
+395069,"Sault Ste. Marie, MI",msa
+394840,"Mayfield, KY",msa
+394436,"Campbellsville, KY",msa
+394550,"Dyersburg, TN",msa
+395192,"Vincennes, IN",msa
+394506,"Coshocton, OH",msa
+394696,"Huntington, IN",msa
+394915,"Newport, TN",msa
+394617,"Fremont, NE",msa
+395083,"Selma, AL",msa
+394713,"Jackson, WY",msa
+395191,"Vidalia, GA",msa
+395187,"Vernal, UT",msa
+394781,"Lebanon, MO",msa
+394413,"Brenham, TX",msa
+394569,"Emporia, KS",msa
+394573,"Escanaba, MI",msa
+394382,"Bennington, VT",msa
+394973,"Peru, IN",msa
+394430,"Butte, MT",msa
+394786,"Lewisburg, TN",msa
+394947,"Ottumwa, IA",msa
+394331,"Angola, IN",msa
+394777,"Laurinburg, NC",msa
+394414,"Brevard, NC",msa
+394324,"Americus, GA",msa
+395084,"Seneca Falls, NY",msa
+394417,"Brookhaven, MS",msa
+395207,"Washington, IN",msa
+753878,"Dayton, TN",msa
+394835,"Martin, TN",msa
+395149,"Taos, NM",msa
+394376,"Beeville, TX",msa
+394613,"Frankfort, IN",msa
+394815,"Madison, IN",msa
+394962,"Paris, TN",msa
+394433,"Cambridge, MD",msa
+394774,"Las Vegas, NM",msa
+394481,"Coffeyville, KS",msa
+394383,"Berlin, NH",msa
+394855,"Miami, OK",msa
+395196,"Wabash, IN",msa
+394310,"Albert Lea, MN",msa
+395176,"Union City, TN",msa
+394725,"Jesup, GA",msa
+394708,"Iron Mountain, MI",msa
+394864,"Mineral Wells, TX",msa
+753901,"Ludington, MI",msa
+394606,"Fort Morgan, CO",msa
+394673,"Hays, KS",msa
+395206,"Washington Court House, OH",msa
+394846,"McPherson, KS",msa
+394435,"Camden, AR",msa
+394320,"Alpena, MI",msa
+395185,"Van Wert, OH",msa
+394921,"North Vernon, IN",msa
+394892,"Mountain Home, ID",msa
+395100,"Silver City, NM",msa
+394615,"Fredericksburg, TX",msa
+395214,"Wauchula, FL",msa
+395181,"Uvalde, TX",msa
+394649,"Greensburg, IN",msa
+395154,"Thomaston, GA",msa
+394356,"Bainbridge, GA",msa
+753923,"The Dalles, OR",msa
+394642,"Grants, NM",msa
+395110,"Spearfish, SD",msa
+395159,"Toccoa, GA",msa
+753909,"Ottawa, KS",msa
+394643,"Great Bend, KS",msa
+394381,"Bennettsville, SC",msa
+753921,"Steamboat Springs, CO",msa
+394858,"Middlesborough, KY",msa
+395004,"Prineville, OR",msa
+395138,"Summerville, GA",msa
+394854,"Mexico, MO",msa
+394601,"Forrest City, AR",msa
+753884,"Hailey, ID",msa
+394869,"Moberly, MO",msa
+394322,"Altus, OK",msa
+394529,"Deming, NM",msa
+394418,"Brookings, OR",msa
+394687,"Hood River, OR",msa
+394494,"Connersville, IN",msa
+394831,"Marshall, MO",msa
+394337,"Arkadelphia, AR",msa
+394498,"Cordele, GA",msa
+395130,"Sterling, CO",msa
+394837,"Maryville, MO",msa
+394470,"Clarksdale, MS",msa
+395239,"Worthington, MN",msa
+395003,"Price, UT",msa
+394403,"Borger, TX",msa
+394578,"Evanston, WY",msa
+753908,"Othello, WA",msa
+394965,"Parsons, KS",msa
+394805,"Los Alamos, NM",msa
+394678,"Hereford, TX",msa
+753925,"Vineyard Haven, MA",msa
+394676,"Helena, AR",msa
+394841,"Maysville, KY",msa
+394594,"Fitzgerald, GA",msa
+394968,"Pecos, TX",msa
+394342,"Atchison, KS",msa
+395142,"Sweetwater, TX",msa
+753929,"Zapata, TX",msa
+753874,"Craig, CO",msa
